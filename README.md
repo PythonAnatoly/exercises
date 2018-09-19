@@ -1,1 +1,2 @@
-# exercises
+Python exercises, examples, summaries, etc.
+
